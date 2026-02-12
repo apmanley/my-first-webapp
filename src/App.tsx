@@ -120,7 +120,7 @@ export default function App() {
         fontFamily: "system-ui, -apple-system, Segoe UI, Roboto, sans-serif",
       }}
     >
-      <h1 style={{ marginBottom: 8 }}>To-Do List</h1>
+      <h1 style={{ marginBottom: 8 }}>Aidan's Tasks</h1>
       <p style={{ marginTop: 0, opacity: 0.8 }}>
         {remainingCount} remaining
       </p>
